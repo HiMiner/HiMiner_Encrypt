@@ -24,3 +24,5 @@ curl -s https://kocloud.oss-cn-hangzhou.aliyuncs.com/install_himiner.sh | bash
 这个客户客户端设置开机自启：
 右键himiner-win.exe点复制
 打开文件夹，地址栏输入 %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 敲回车 然后在文件夹内右键-粘贴快捷方式
+
+# 小飞机交流群 https://t.me/himinereth
